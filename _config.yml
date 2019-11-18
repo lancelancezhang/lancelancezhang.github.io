@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Lance Zhang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/background.jpg"
   bio              : "This is my porfolio"
   location         : "Auckland, New Zealand"
   email            :
