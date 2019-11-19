@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/profile_pic.jpg"
+  image: "/images/profile pic.jpg"
 ---
 
-I'm a man
+About me section to be filled out!! and to figure out correct formatting
