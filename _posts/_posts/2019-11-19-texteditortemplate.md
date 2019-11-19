@@ -3,7 +3,7 @@ title: "Image Combiner and Remover"
 date: 2018-11-19
 tags: [image editing, vectorisation, MatLab]
 header:
-
+  image: "/images/la flambe.jpg"
 excerpt: "Image Combiner and Remover using MatLab"
 ---
 
