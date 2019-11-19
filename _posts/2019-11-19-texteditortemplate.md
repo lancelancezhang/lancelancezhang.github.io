@@ -1,10 +1,10 @@
 ---
 title: "Image Combiner and Remover"
 date: 2018-11-19
-tags: [image editing, vectorisation, MatLab]
+tags: [image editing, vectorisation, matLab]
 header:
   image: "/images/la flambe.jpg"
-excerpt: "Image Combiner and Remover using MatLab"
+excerpt: "Image Combiner and Remover using matLab"
 ---
 
 # H1 Heading
