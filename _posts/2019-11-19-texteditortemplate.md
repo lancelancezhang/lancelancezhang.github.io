@@ -1,10 +1,9 @@
 ---
-title: "Image Combiner and Remover"
+title: "Template Post"
 date: 2018-11-19
-tags: [image editing, vectorisation, matLab]
+tags: [template, post, new]
 header:
-  image: "/images/la flambe.jpg"
-excerpt: "Image Combiner and Remover using matLab"
+excerpt: "Template Post with formatting"
 ---
 
 # H1 Heading
