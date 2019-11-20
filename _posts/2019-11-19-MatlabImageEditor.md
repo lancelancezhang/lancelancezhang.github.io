@@ -18,4 +18,4 @@ An example of its functions can be seen in the images below:
 
 The image combiner script that I wrote combines each of the images in order to create an - action shot, as seen below with the image:
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Action Shot.jpg" alt="">
+![alt]({{ site.url }}{{ site.baseurl }}/images/Action Shot.jpg)
