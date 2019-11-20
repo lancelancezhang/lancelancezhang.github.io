@@ -12,7 +12,7 @@ This image combiner and remover was my project as part of my first year engineer
 
 An example of its functions can be seen in the images below:
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Overview.jpg" alt="This is an example of the three images that are chosen to be edited">
+<img src="{{ site.url }}{{ site.baseurl }}/images/la flambe.jpg" alt="This is an example of the three images that are chosen to be edited">
 
 ### Image combiner
 
