@@ -12,10 +12,10 @@ This image combiner and remover was my project as part of my first year engineer
 
 An example of its functions can be seen in the images below:
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/matlab/Overview.jpg" alt="This is an example of the three images that are chosen to be edited">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Overview.jpg" alt="This is an example of the three images that are chosen to be edited">
 
 ### Image combiner
 
 The image combiner script that I wrote combines each of the images in order to create an - action shot, as seen below with the image:
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/matlab/Action Shot.jpg" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Action Shot.jpg" alt="">
