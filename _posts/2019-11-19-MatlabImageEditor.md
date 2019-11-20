@@ -107,3 +107,14 @@ end
 ```
 
 The code for the action shot is basically the same as the remove action but with added steps of finding the most distant pixel from the median pixel value.
+
+Another example of the action shot and the remove action being applied is also seen in the example below:
+
+Images Overview
+<img src="{{ site.url }}{{ site.baseurl }}/images/matlab/Ovewview 2.JPG" alt="">
+
+Remove Action
+<img src="{{ site.url }}{{ site.baseurl }}/images/matlab/Remove Action 2.JPG" alt="">
+
+Action Shot
+<img src="{{ site.url }}{{ site.baseurl }}/images/matlab/Action Shot2.JPG" alt="">
