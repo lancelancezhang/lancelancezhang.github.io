@@ -1,9 +1,9 @@
 ---
-title: "Image Combiner and Remover"
+title: "Action Shot and Remove Action"
 date: 2018-11-19
-tags: [image editing, vectorisation, matLab]
+tags: [image editing, matlab]
 header:
-excerpt: "Image Combiner and Remover using matLab"
+excerpt: "Editing images to Action Shots and Removing Actions using MatLab"
 ---
 
 ## Project Outline
