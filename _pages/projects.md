@@ -5,11 +5,12 @@ title: "Projects"
 author_profile: true
 header:
 ---
-# Academic projects
-Projects that I worked on during University
+### Academic projects
+Projects that I worked on for University coursework
 
 [Action Shot and Remove Action](https://lancelancezhang.github.io/MatlabImageEditor/)
-This is a link [link](facebook.com)
 
-# Personal Projects
+[Sorting Algorithms](https://lancelancezhang.github.io/SortingAlgorithms/)
+
+### Personal Projects
 Projects that I have decided to personally learn about
