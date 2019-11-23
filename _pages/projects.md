@@ -10,7 +10,7 @@ Projects that I worked on for University coursework
 
 [Action Shot and Remove Action](https://lancelancezhang.github.io/MatlabImageEditor/)
 
-[Sorting Algorithms](https://lancelancezhang.github.io/SortingAlgorithms/)
-
 ### Personal Projects
 Projects that I have decided to personally learn about
+
+[Sorting Algorithms](https://lancelancezhang.github.io/SortingAlgorithms/)
