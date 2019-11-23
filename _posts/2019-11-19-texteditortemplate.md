@@ -1,6 +1,6 @@
 ---
 title: "Template Post"
-date: 2018-11-19
+date: 2019-11-19
 tags: [template, post, new]
 header:
 excerpt: "Template Post with formatting"
