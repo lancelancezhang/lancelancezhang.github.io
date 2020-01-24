@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" #, "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" #, "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "dark"
 
 # Site Settings
 locale                   : "en-US"
@@ -117,7 +117,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: lancelancezhang@gmail.com
     - label: "Linkedin"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/lancelancezhang/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
