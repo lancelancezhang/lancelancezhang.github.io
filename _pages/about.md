@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-layout: splash
+layout: search
 header:
   image: "/images/profile pic.jpg"
 ---
