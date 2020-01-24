@@ -109,16 +109,16 @@ analytics:
 author:
   name             : "Lance Zhang"
   avatar           : "/images/profile pic.JPG"
-  bio              : "First Year Engineering Student at the University of Auckland"
+  bio              : "Software Engineering student at the University of Auckland"
   location         : "Auckland, New Zealand"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: lancelancezhang@gmail.com
-    - label: "Website"
+    - label: "Linkedin"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.linkedin.com/in/lancelancezhang/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
