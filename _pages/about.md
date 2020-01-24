@@ -1,24 +1,24 @@
----
-title: "About"
-permalink: /about/
-header:
-  image: "/images/profile pic.jpg"
----
-###About me
-I am a second year software engineering student currently studying at the University of Auckland. I have a love for development and IT and hope to find work in this industry. In my spare time I play games and learn more about art history.
+  ---
+  title: "About"
+  permalink: /about/
+  header:
+    image: "/images/profile pic.jpg"
+  ---
+  ### About me
+  I am a second year software engineering student currently studying at the University of Auckland. I have a love for development and IT and hope to find work in this industry. In my spare time I play games and learn more about art history.
 
-##Education
+  ## Education
 
-University of Auckland
-Bachelor of Software Engineering (Honours)
+  University of Auckland
+  Bachelor of Software Engineering (Honours)
 
-##Technical Skills
+  ## Technical Skills
 
-**Languages**
-Python 3
-Matlab
-C
+  **Languages**
+  Python 3
+  Matlab
+  C
 
-**Software**
-Windows
-Git
+  **Software**
+  Windows
+  Git
