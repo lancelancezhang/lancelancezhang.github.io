@@ -14,3 +14,12 @@ task FizzBuzz.
 
 Opening Screen shown here:
 <img src="{{ site.url }}{{ site.baseurl }}/images/fizzbuzz/fizzbuzz1.jpg" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/la flambe.jpg" alt="this is la flambe">
+
+
+It plays like normal Fizzbuzz, except you have a score at the very top of the screen.
+The score falls to zero if you don't press the correct button.
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/fizzbuzz/fizzbuzz2.jpg" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/fizzbuzz/fizzbuzz1.JPG" alt="">

@@ -23,3 +23,8 @@ Git/Github
 Android Studio
 Visual Studio
 Atom
+
+**Relevant Coursework**
+Data structures
+Algorithms
+Object Oriented Software Construction
