@@ -6,21 +6,20 @@ header:
 classes: wide
 ---
 ### About me
-I am a second year software engineering student currently studying at the University of Auckland. I have a love for development and IT and hope to find work in this industry. In my spare time I play games and learn more about art history.
-
-## Education
-
-University of Auckland
-Bachelor of Software Engineering (Honours)
+I am a second year software engineering student studying at the University of Auckland.
 
 ## Technical Skills
 
 **Languages**
 Python 3
 Matlab
+Java
+Javascript
 C
 
 **Software**
 Windows
-Git
+Git/Github
 Android Studio
+Visual Studio
+Atom

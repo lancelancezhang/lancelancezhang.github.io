@@ -13,4 +13,4 @@ The app that I created was a game based off of the beginner's programming
 task FizzBuzz.
 
 Opening Screen shown here:
-<img src="{{ site.url }}{{ site.baseurl }}/images/fizzbuzz/fizzbuzz1" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/fizzbuzz/fizzbuzz1.jpg" alt="">
