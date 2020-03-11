@@ -1,12 +1,16 @@
 ---
-title: "Android Studio Test - Coin Flipper"
-date: 2020-2-6
+title: "Android Studio Test - Fizzbuzz"
+date: 2020-3-11
 tags: [android, apps, mobile]
-header:
-excerpt: "Exploring Android Studio - Creating a Coin Flipper"
+header: Android Studio Experimentation
+excerpt: "Creating the Fizzbuzz Game"
 ---
-I took steps into experimenting with different types of development. Specifically
-I've had an interest in android application development, as it is interesting
-to me to see how code can directly translate into something that the end user
-interacts with. I looked into Android Studio and explored it by creating a
-simple coin flipper and exporting it as an .apk file to run on my phone.
+Since phones have been such an integral part of our lives and technology in general,
+I took some steps into experimenting and learning about how Android Studio worked
+and understanding how the user interacts with a mobile interface.
+
+The app that I created was a game based off of the beginner's programming
+task FizzBuzz.
+
+Opening Screen shown here:
+<img src="{{ site.url }}{{ site.baseurl }}/images/fizzbuzz/fizzbuzz1" alt="">
