@@ -12,27 +12,19 @@ I am a second year software engineering student studying at the University of Au
 
 **Languages**
 
-Python 3
-
-Matlab
-
-Java
-
-Javascript
-
-C
+* Python 3
+* Matlab
+* Java
+* Javascript
+* C
 
 **Software**
 
-Windows
-
-Git/Github
-
-Android Studio
-
-Visual Studio
-
-Atom
++ Windows
++ Git/Github
++ Android Studio
++ Visual Studio
++ Atom
 
 **Relevant Coursework**
 
