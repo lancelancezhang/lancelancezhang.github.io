@@ -11,20 +11,33 @@ I am a second year software engineering student studying at the University of Au
 ## Technical Skills
 
 **Languages**
+
 Python 3
+
 Matlab
+
 Java
+
 Javascript
+
 C
 
 **Software**
+
 Windows
+
 Git/Github
+
 Android Studio
+
 Visual Studio
+
 Atom
 
 **Relevant Coursework**
+
 Data structures
+
 Algorithms
+
 Object Oriented Software Construction
