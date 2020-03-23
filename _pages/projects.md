@@ -12,5 +12,3 @@ Projects that I worked on as University coursework
 
 ### Personal Projects
 Person Projects that I have pursued in my spare time
-
-[Sorting Algorithms](https://lancelancezhang.github.io/SortingAlgorithms/)
