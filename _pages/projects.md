@@ -12,3 +12,5 @@ Projects that I worked on as University coursework
 
 ### Personal Projects
 Person Projects that I have pursued in my spare time
+
+[Fizz Buzz Android Application](https://lancelancezhang.github.io/AndroidFizzBuzz/)

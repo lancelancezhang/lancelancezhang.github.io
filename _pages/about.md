@@ -15,7 +15,6 @@ I am a second year software engineering student studying at the University of Au
 * Python 3
 * Matlab
 * Java
-* Javascript
 * C
 
 **Software**
