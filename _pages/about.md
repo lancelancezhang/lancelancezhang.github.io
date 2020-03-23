@@ -27,8 +27,6 @@ I am a second year software engineering student studying at the University of Au
 
 **Relevant Coursework**
 
-Data structures
-
-Algorithms
-
-Object Oriented Software Construction
++ Data structures
++ Algorithms
++ Object Oriented Software Construction
