@@ -4,6 +4,7 @@ permalink: /projects/
 title: "Projects"
 author_profile: true
 header:
+  images: "/images/background.png"
 ---
 ### Academic projects
 Projects that I worked on as University coursework
