@@ -22,3 +22,7 @@ The score falls to zero if you don't press the correct button.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/fizzbuzz/fizzbuzz2.jpg" alt="">
 <img src="{{ site.url }}{{ site.baseurl }}/images/fizzbuzz/fizzbuzz1.JPG" alt="">
+
+Specifically there wasn't anything challenging in this creating this, but instead
+it was really interesting learning about how user interfaces were created on
+this platform.

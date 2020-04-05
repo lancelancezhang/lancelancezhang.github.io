@@ -41,3 +41,9 @@ Remove Action
 Action Shot
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/matlab/Action Shot2.JPG" alt="">
+
+
+The biggest challenge I faced creating this code was the initial visualisation of
+how the rgb layers interacted with one another in order to form a whole image, and
+being able to use the correct syntax and brackets/braces to enter specific pieces
+of information in what were esentially 4D arrays.
