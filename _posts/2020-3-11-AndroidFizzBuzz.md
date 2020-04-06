@@ -1,6 +1,8 @@
 ---
+layout: splash
 title: "Android Studio Test - Fizzbuzz"
 date: 2020-3-11
+author_profile: false
 tags: [android, apps, mobile]
 header: Android Studio Experimentation
 excerpt: "Creating the Fizzbuzz Game"

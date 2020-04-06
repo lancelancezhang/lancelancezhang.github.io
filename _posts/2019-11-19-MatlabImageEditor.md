@@ -1,7 +1,9 @@
 ---
+layout: splash
 title: "Action Shot and Remove Action"
 date: 2019-11-19
 tags: [image editing, matlab]
+author_profile: false
 header:
 excerpt: "Editing images to Action Shots and Removing Actions using MatLab"
 ---

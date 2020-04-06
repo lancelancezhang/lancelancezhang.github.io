@@ -1,6 +1,8 @@
 ---
+layout: splash
 title: "Hotel Visitor Manager"
 date: 2020-3-11
+author_profile: false
 tags: [java, object oriented]
 header: Hotel Visitor Manager
 excerpt: "Learning how to do object oriented programming"
