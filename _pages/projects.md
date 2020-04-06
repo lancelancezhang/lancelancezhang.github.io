@@ -4,7 +4,7 @@ permalink: /projects/
 title: "Projects"
 author_profile: false
 header:
-  overlay_image: /images/background.png
+  overlay_image: /images/background2.png
   image_description: "hi"
 ---
 ### Academic projects

@@ -1,12 +1,12 @@
 ---
-title: "About"
+title: "About Me"
 permalink: /about/
 layout: archive
 author_profile: true
 header:
+  overlay_image: /images/background3.png
 classes: wide
 ---
-### About me
 I am a second year software engineering student studying at the University of Auckland.
 
 ## Technical Skills
