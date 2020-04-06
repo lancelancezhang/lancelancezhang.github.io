@@ -11,6 +11,7 @@ header:
 Projects that I worked on as University coursework
 
 [Action Shot and Remove Action](https://lancelancezhang.github.io/MatlabImageEditor/)
+[Hotel Visitor Manager](https://lancelancezhang.github.io/HotelVisitorManager/)
 
 ### Personal Projects
 Person Projects that I have pursued in my spare time

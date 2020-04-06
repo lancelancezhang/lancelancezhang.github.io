@@ -1,22 +1,20 @@
 ---
 title: "About Me"
 permalink: /about/
-layout: archive
+layout: splash
 author_profile: true
 header:
   overlay_image: /images/background3.png
 classes: wide
 ---
 I am a second year software engineering student studying at the University of Auckland.
+I'm learning
 
 ## Technical Skills
 
 **Languages**
 
-* Python 3
-* Matlab
-* Java
-* C
+<img src="{{ site.url }}{{ site.baseurl }}/images/languages.jpg" alt="">
 
 **Software**
 
