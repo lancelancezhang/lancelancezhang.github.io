@@ -1,6 +1,7 @@
 ---
 layout: splash
-permalink: /
+permalink: /test/
+title: "Recent Projects"
 header:
   overlay_image: /images/background.png
 feature_row:
