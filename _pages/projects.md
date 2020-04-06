@@ -2,9 +2,10 @@
 layout: archive
 permalink: /projects/
 title: "Projects"
-author_profile: true
+author_profile: false
 header:
-  images: "/images/background.png"
+  overlay_image: /images/background.png
+  image_description: "hi"
 ---
 ### Academic projects
 Projects that I worked on as University coursework
