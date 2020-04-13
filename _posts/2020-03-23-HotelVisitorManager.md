@@ -7,9 +7,9 @@ tags: [java, object oriented]
 header: Hotel Visitor Manager
 excerpt: "Learning how to do object oriented programming"
 ---
-In my Object Oriented Programming class in university I was learning the key
-concepts behind Java and OOP. In this class assignment I had to complete an
-implementation of a Hotel Visitor Manager.
+In my Object Oriented Programming class at university, I was learning the key
+concepts behind Java and OOP. For an assignment I had to complete the implementation
+of a Hotel Visitor Manager using concepts that I had recently learned.
 
 Specifically in this assignment I was learning the basics behind abstraction
 and encapsulation with the use and creation of appropriate classes, objects and

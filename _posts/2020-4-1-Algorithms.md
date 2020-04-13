@@ -7,4 +7,7 @@ tags: [algorithms]
 header: Algorithms
 excerpt: "Exploring different algorithms"
 ---
-In these set of articles, I will be exploring different algorithms that I have learned about in my university course.
+Recently in university, I have been learning about big O notation, in other words, the worst case scenario for
+an algorithm to run. The running times of different algorithms can be summarised in the graphic below:
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/algorithms/bigO.JPG" alt="">
