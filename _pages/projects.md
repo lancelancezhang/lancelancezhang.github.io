@@ -9,7 +9,7 @@ header:
 ### Academic projects
 Projects that I worked on as University coursework
 
-[Action Shot and Remove Action](https://lancelancezhang.github.io/MatlabImageEditor/)
+[Action Shot and Remove Action](https://lancelancezhang.github.io/MATLABImageEditor/)
 
 [Hotel Visitor Manager](https://lancelancezhang.github.io/HotelVisitorManager/)
 
