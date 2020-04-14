@@ -7,7 +7,8 @@ author_profile: false
 header:
 excerpt: "Processing Action Shot and Remove Action functions in MATLAB"
 ---
-## Project Outline
+# MATLAB Image Processor
+
 This my final MATLAB project that I did for a programming paper.
 
 The project was the implementation of a photo processing program that dynamically

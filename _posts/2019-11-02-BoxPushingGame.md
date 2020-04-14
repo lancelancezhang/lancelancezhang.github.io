@@ -7,6 +7,8 @@ author_profile: false
 header:
 excerpt: "Box Pushing Game in C"
 ---
+# Box Pushing Game
+
 This Command line Box Pushing Game was my final project for a C programming paper that
 I took at university.
 

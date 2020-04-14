@@ -9,9 +9,11 @@ header:
 ### Academic projects
 Projects that I worked on as University coursework
 
-[Action Shot and Remove Action](https://lancelancezhang.github.io/MATLABImageEditor/)
-
 [Hotel Visitor Manager](https://lancelancezhang.github.io/HotelVisitorManager/)
+
+[Image Processor](https://lancelancezhang.github.io/MATLABImageProcessing/)
+
+[Box Pushing Game](https://lancelancezhang.github.io/BoxPushingGame/)
 
 ### Personal Projects
 Person Projects that I have pursued in my spare time

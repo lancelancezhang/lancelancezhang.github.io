@@ -1,12 +1,14 @@
 ---
 layout: splash
-title: "Android Studio Test - FizzBuzz"
+title: "FizzBuzz Mobile Application"
 date: 2020-3-11
 author_profile: false
 tags: [android, apps, mobile]
-header: Android Studio Experimentation
+header:
 excerpt: "FizzBuzz mobile application"
 ---
+# FizzBuzz Mobile Application
+
 This short but sweet project was quick look into how user interfaces worked with
 mobile phones. I used Android Studios to implement the code for a FizzBuzz game, based
 off of the beginner programming task.
