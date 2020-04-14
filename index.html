@@ -25,4 +25,13 @@ feature_row:
     btn_label: "Read More"
 ---
 
+## Other Projects
+
+Other projects that I have worked on can be found here:
+
 {% include feature_row %}
+<div class="grid__wrapper">
+  {% for post in site.posts limit:4 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
