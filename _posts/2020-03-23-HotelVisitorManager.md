@@ -19,7 +19,44 @@ methods that fit with what the client wanted.
 
 Some example of some code can be seen below:
 
+```Java
+public class Party {
+	// host/visitor detail string arrays
+	private String[] _hostDetails = new String[3];
+	private String[] _visitorDetails = new String[7];
 
+	// party constructor for host
+	public Party(String familyName, String givenName, String email) {
+		System.out.println("A Party Object was created - host - for " + givenName + " " + familyName);
+		// split host details into string array
+		_hostDetails[0] = familyName;
+		_hostDetails[1] = givenName;
+		_hostDetails[2] = email;
+	}
+
+	// party constructor for visitor
+	public Party(String familyName, String givenName, String organisation, String visitorEmail,
+			String hostEmail, String visitDate, String visitStartTime) {
+		System.out.println("A Party Object was created - visitor - for " + givenName + " " + familyName);
+		// split host details into string array
+		_visitorDetails[0] = familyName;
+		_visitorDetails[1] = givenName;
+		_visitorDetails[2] = organisation;
+		_visitorDetails[3] = visitorEmail;
+		_visitorDetails[4] = hostEmail;
+		_visitorDetails[5] = visitDate;
+		_visitorDetails[6] = visitStartTime;
+	}
+
+	public String[] getHostDetails() {
+		return _hostDetails;
+	}
+
+	public String[] getVisitorDetails() {
+		return _visitorDetails;
+	}
+}
+```
 
 I faced a lot of problems understanding how objects were able to 'communicate'
 with one another at first and did a lot of troubleshooting centred around
