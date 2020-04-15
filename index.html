@@ -11,7 +11,7 @@ feature_row:
     url: "/AndroidFizzBuzz/"
     btn_class: "btn--primary"
     btn_label: "Read More"
-  - image_path: /images/titlesquares/filler.JPG
+  - image_path: /images/titlesquares/javacode.JPG
     title: "Hotel Visitor Manager"
     excerpt: "Java built and first experiences with object oriented programming"
     url: "/HotelVisitorManager/"
@@ -24,10 +24,3 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Read More"
 ---
-
-{% include feature_row %}
-<div class="grid__wrapper">
-  {% for post in site.posts limit:4 %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
