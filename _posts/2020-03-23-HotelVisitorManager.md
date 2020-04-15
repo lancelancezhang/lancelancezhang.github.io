@@ -19,7 +19,7 @@ methods that fit with what the client wanted.
 
 Some example of some code can be seen below:
 
-```Java
+```java
 public class Party {
 	// host/visitor detail string arrays
 	private String[] _hostDetails = new String[3];
