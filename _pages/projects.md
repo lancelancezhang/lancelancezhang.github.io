@@ -15,6 +15,10 @@ Projects that I worked on as University coursework
 
 [Box Pushing Game](https://lancelancezhang.github.io/BoxPushingGame/)
 
+[Space Shapes GUI](https://lancelancezhang.github.io/ShapeShapes/)
+
+
+
 ### Personal Projects
 Person Projects that I have pursued in my spare time
 
