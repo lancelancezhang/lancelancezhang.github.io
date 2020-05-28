@@ -7,7 +7,7 @@ tags: [java, OOP, GUI, Graphics]
 header:
 excerpt: "Space Shapes Assignments"
 ---
-# Space Shapes Assignments
+# Space Shapes Assignment
 
 {% include video id="1TB_uMgRHLYvgC_je-RoiJOOxwuUReDUM" provider="google-drive" %}
 
