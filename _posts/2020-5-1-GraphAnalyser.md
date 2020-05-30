@@ -1,4 +1,4 @@
- ---
+---
 layout: splash
 title: "Graph Analyser"
 date: 2020-5-23
